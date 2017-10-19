@@ -1,0 +1,54 @@
+body { background-color: white;
+}
+
+div#caja1 {
+position:absolute;
+left: 0px;
+top: 0px;
+background-color: red;
+width: 300px;
+height: 300px}
+
+div#caja2 {
+position:absolute;
+left: 80px;
+top: 75px;
+background-color: blueviolet;
+width: 150px;
+height: 150px;
+}
+
+div#caja3 {
+position:absolute;
+left: 80px;
+top: 75px;
+background-color: yellow;
+width: 75px;
+height: 75px;}
+
+div#caja4 {
+    position:absolute;
+    left: 0px;
+    top: 315px;
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+}
+
+div#caja5 {
+        position:absolute;
+        left: 0px;
+        top: 315px;
+        background-color: black;
+        width: 75px;
+        height: 75px;
+       
+}
+        
+div#caja6{
+        position:absolute;
+        left: 75px;
+        top: 390px;
+        background-color: green;
+        width: 150px;
+        height: 150px;}
